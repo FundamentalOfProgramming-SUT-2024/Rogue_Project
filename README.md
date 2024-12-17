@@ -1,2 +1,3 @@
-# Rogue_Project
-Main repo of FOP CE 2024 project at SUT.
+# Project
+
+## شما می‌توانید داک‌های هر فاز پروژه را از لینک‌های زیر دانلود کنید:
